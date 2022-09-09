@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
+}
+
+.carousel-item{
+
+    box-shadow: 10px 10px 2600px rgba(0, 0, 0, 0.9) inset;
+}
+
+.carousel-caption{
+   margin-bottom: 160px;
+
+
+}
+
+.h1-header{
+    font-weight: 600;
+        font-size: 70px;
+        
+        color: #FFFFFF;
+        
+            text-shadow: 1px 1px 2px #000000;
+    
+}
+.fs-6{
+    color: #FFFFFF;
+    
+        text-shadow: 1px 1px 2px #555252;
+}
+
+/* main part */
+
+.second-part{
+    margin-top: 130px;
+}
+
+.second-part h1{
+    font-weight: 700;
+        font-size: 40px;
+        color: #000000;
+}
+.second-part p{
+    margin: 2px;
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #777777;
+}
+
+#col-border{
+    border: 1px solid black;
+}
+
+.col-lg-6 h5{
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        color: #289BDE;
+
+}
+
+/* ready to join */
+
+.readytoJoin{
+    margin-top: 130px;
+    background-color: #289BDE;
+    
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.readytoJoin h1,p{
+    color: #FFFFFF;
+}
+
+
+/* ffaq */
+
+.faq{
+    margin-top: 150px;
+}
+.faq p{
+    color:#777777;
+    margin: 0%;
+    font-size: 13px;
+}
+
+
+/* companies */
+
+.companies{
+    margin-top: 150px;
+}
+
+/* footer */
+footer{
+    background-color: #161616;;
+}
+
+footer h1{
+    color: #FFFFFF;
+}
+
+footer p{
+    font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 26%;
+        color: #E8E8E8;
+}
+
+.fa-brands{
+    color: #ffffff;
+
+}
